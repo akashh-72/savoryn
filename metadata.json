@@ -1,0 +1,8 @@
+{
+  "name": "Savoryn | Culinary Reels",
+  "description": "A modern, aesthetic short-form video platform dedicated to culinary content, recipes, and food culture.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
